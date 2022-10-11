@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/mdangelo4RHHE/mdangelo4RHHE/_apis/build/status/mdangelo4RHHE.calculator?branchName=master)](https://dev.azure.com/mdangelo4RHHE/mdangelo4RHHE/_build/latest?definitionId=1&branchName=master)
